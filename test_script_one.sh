@@ -132,3 +132,4 @@ storeCount=$(filecount)
 echo $storeCount
 echo "Hello, there are $storeCount files in this directory"
 
+#TEST
